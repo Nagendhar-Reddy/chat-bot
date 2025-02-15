@@ -66,7 +66,7 @@ frontend/
 2. Environment Setup
 1. Clone Repository
 
-2. git clone https://github.com/yourusername/chat-application.git
+2. git clone(https://github.com/Nagendhar-Reddy/chat-bot/tree/master)
 cd chat-application
 
 
